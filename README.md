@@ -8,5 +8,7 @@ Description:It helps to hire the people and whomever ever has finished any inter
 
 Azure storage and static web page is used
 
+![zoom](./screenshot(2514).png)
+
 
 
